@@ -23,12 +23,7 @@ Java ile metin tabanlı bir macera oyunu yapıyoruz.
 | Kılıç    |  2 |   3   |  35  |
 | Tüfek    |  3 |   7   |  45  |
 
-# Zırhlar
-| Silahlar | ID | Hasar | Para |
-|:--------:|:--:|:-----:|:----:|
-| Tabanca  |  1 |   2   |  25  |
-| Kılıç    |  2 |   3   |  35  |
-| Tüfek    |  3 |   7   |  45  |
+
 
     # Ödüller
     - Silah kazanma ihtimali: %15
